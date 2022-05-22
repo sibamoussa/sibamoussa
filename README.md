@@ -1,14 +1,14 @@
-# Hi, I'm Rishi and welcome to my GitHub Page! 👋
+# Hi, I'm Siba and welcome to my GitHub Page! 👋
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-- ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
+- ⚡ Im an Machine Learning Researcher with over 6 years of experience in the healthcare industry. 
 <!-- 🔍 Seeking new Fully Remote opportunities. -->
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
-- 🎮 In my spare time I enjoy Gaming, Dj'ing, Cooking, watching classic Movies/TV Shows &amp; breaking/building things.
-- 😄 Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
-- 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
-<br/>
+- 🎮 In my spare time I enjoy Hiking, Cooking, Swimming &amp; building things.
+- 😄 Fun fact: ... I have lived in 3 continents. 
+<!--- 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
+<br/> -->
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -42,12 +42,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 -->
 
-[![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5238978)](https://stackoverflow.com/users/5238978/rishi-singh)
-<br/><br/>
+<!--[![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5238978)](https://stackoverflow.com/users/5238978/rishi-singh)
+<br/><br/> -->
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbhachu&theme=nightowl)](https://git.io/streak-stats)
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbhachu&theme=nightowl&show_icons=true)
+![Siba's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbhachu&theme=nightowl&show_icons=true)
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=rbhachu">
@@ -57,5 +57,5 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Rishi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhachu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
-<a target="_blank" title="https://www.bhachublog.com" href="https://www.bhachublog.com"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
-<a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" title="https://sibamoussa.github.io/" href="https://sibamoussa.github.io/"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/sibam" href="https://www.linkedin.com/in/sibam"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
