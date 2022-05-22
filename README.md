@@ -4,13 +4,14 @@
 ## 👩‍💻 &nbsp;About Me&nbsp;
 -  🧠 Im a Machine Learning Engineer with over 6 years of experience in the healthcare industry. 
 <!-- 🔍 Seeking new Fully Remote opportunities. -->
-- ✍️ Available for collaboration on Voluntary and Community Projects.
+- ✍️ Available for collaboration on community projects.
 - 🤸🏻‍♂️ In my spare time I enjoy hiking, cooking, swimming &amp; building things.
 - 😄 Fun fact: ... I have lived on three continents and looking to experience all seven. 
 <!--- 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
 <br/> -->
 
 ## 🛠 &nbsp;Language Stack&nbsp;&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
