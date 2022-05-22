@@ -47,7 +47,7 @@
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sibamoussa&theme=nightowl)](https://git.io/streak-stats)
-![Siba's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbhachu&theme=nightowl&show_icons=true)
+![Siba's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibamoussa&theme=nightowl&show_icons=true)
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=sibamoussa">
