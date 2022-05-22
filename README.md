@@ -50,12 +50,12 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sibamoussa&theme=nightowl)](https://git.io/streak-stats)
 ![Siba's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibamoussa&theme=nightowl&show_icons=true)
 <br/>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> 
   <img src="https://komarev.com/ghpvc/?username=sibamoussa">
 </a>
 
 ### Most Used Languages&nbsp;&nbsp;
-<a href="https://github.com/sibamoussa/github-readme-stats"><img alt="Siba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhachu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/sibamoussa/github-readme-stats"><img alt="Siba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibamoussa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
 <a target="_blank" title="https://sibamoussa.github.io/" href="https://sibamoussa.github.io/"><img src="https://img.shields.io/badge/-Siba's Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
