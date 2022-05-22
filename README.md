@@ -10,7 +10,7 @@
 <!--- 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
 <br/> -->
 
-## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
+## 🛠 &nbsp;Language Stack&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
@@ -54,8 +54,8 @@
 </a>
 
 ### Most Used Languages&nbsp;&nbsp;
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Siba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhachu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/sibamoussa/github-readme-stats"><img alt="Siba's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhachu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
-<a target="_blank" title="https://sibamoussa.github.io/" href="https://sibamoussa.github.io/"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
-<a target="_blank" title="https://www.linkedin.com/in/sibam" href="https://www.linkedin.com/in/sibam"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" title="https://sibamoussa.github.io/" href="https://sibamoussa.github.io/"><img src="https://img.shields.io/badge/-Siba's Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/sibam" href="https://www.linkedin.com/in/sibam"><img src="https://img.shields.io/badge/-Siba&nbsp;Moussa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
