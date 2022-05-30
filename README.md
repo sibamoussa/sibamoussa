@@ -2,7 +2,7 @@
 <br/>
 
 ## 👩‍💻 &nbsp;About Me&nbsp;
--  🧠 Im a Machine Learning Engineer with over 6 years of experience in the healthcare industry. 
+-  🧠 Im a Machine Learning Engineer with over 6 years of experience in the biotech industry. 
 <!-- 🔍 Seeking new Fully Remote opportunities. -->
 - ✍️ Available for collaboration on community projects.
 - 🤸🏻‍♂️ In my spare time I enjoy hiking, cooking, swimming &amp; building things.
