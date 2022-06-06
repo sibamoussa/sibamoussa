@@ -1,4 +1,4 @@
-# Hi, I'm Siba and welcome to my GitHub Page! 👋
+# Hello, welcome to my GitHub Page! 👋
 <br/>
 
 ## 👩‍💻 &nbsp;About Me&nbsp;
